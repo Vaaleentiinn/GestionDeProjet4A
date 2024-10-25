@@ -2,3 +2,6 @@ Bonjour, ceci est une modification du fichier
 Bonjour no2, ceci est une 2e modification du fichier
 
 Phrase de la partie 8.3
+
+Rajout d'une ligne de l'utilisateur bis partie 8.3
+
