@@ -1,1 +1,2 @@
 Bonjour, ceci est une modification du fichier
+je tente de mofifier, peut etre qu'un conflit va se créer ???
