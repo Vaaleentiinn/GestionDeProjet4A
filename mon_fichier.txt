@@ -1,2 +1,5 @@
 Bonjour, ceci est une modification du fichier
-je tente de mofifier, peut etre qu'un conflit va se créer ???
+<<<<<<< HEAD
+=======
+Bonjour no2, ceci est une 2e modification du fichier
+>>>>>>> 45eb888a1c1617a62eed651dfa2aaa7055df1eac
