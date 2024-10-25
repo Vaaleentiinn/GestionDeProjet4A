@@ -3,3 +3,4 @@ Bonjour, ceci est une modification du fichier
 =======
 Bonjour no2, ceci est une 2e modification du fichier
 >>>>>>> 45eb888a1c1617a62eed651dfa2aaa7055df1eac
+Rajout d'une ligne de l'utilisateur bis partie 8.3
